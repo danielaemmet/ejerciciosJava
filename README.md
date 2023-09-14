@@ -1,6 +1,6 @@
 # ejerciciosJava
 
-1.Verificar si un número es par o impar
+1.Verificar si un número es par o impar(ParOImpar.java)
 
 2.Verificar si un año es bisiesto o no
 
