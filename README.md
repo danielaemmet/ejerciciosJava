@@ -8,4 +8,4 @@
 
 4.Encontrar el máximo común divisor de dos números
 
-5.Encontrar el máximo común divisor de dos números
+5.Encontrar el mínimo de tres números
